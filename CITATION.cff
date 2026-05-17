@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software or dataset in academic work, please cite both
+  the article and this repository as listed below.
+type: software
+title: >-
+  A Prerequisite-Flow Demand Model for Hybrid Augmented Intelligence in
+  Academic Course Planning — Reproducibility release
+version: "1.0.0"
+date-released: "2026-05-17"
+license-expression: "MIT AND CC-BY-4.0"
+repository-code: "https://github.com/[OWNER]/prerequisite-flow-demand-model"
+authors:
+  - family-names: Estrada-Padilla
+    given-names: Alejandro
+    email: alejandro.ep@cdmadero.tecnm.mx
+    affiliation: "Instituto Tecnológico de Ciudad Madero, Tamaulipas, México"
+  - family-names: Balderas-Jaramillo
+    given-names: Fausto Antonio
+    email: fausto.bj@cdmadero.tecnm.mx
+    affiliation: "Instituto Tecnológico de Ciudad Madero, Tamaulipas, México"
+  - family-names: Aguirre Lam
+    given-names: Marco A
+    email: marco.al@cdmadero.tecnm.mx
+    affiliation: "Instituto Tecnológico de Ciudad Madero, Tamaulipas, México"
+  - family-names: Contreras Álvarez
+    given-names: Laura Taide
+    email: laura.ca@cdmadero.tecnm.mx
+    affiliation: "Instituto Tecnológico de Ciudad Madero, Tamaulipas, México"
+  - family-names: Rodríguez Zapata
+    given-names: José Francisco Franklin
+    email: franklin.rz@cdmadero.tecnm.mx
+    affiliation: "Instituto Tecnológico de Ciudad Madero, Tamaulipas, México"
+preferred-citation:
+  type: article
+  title: >-
+    A Prerequisite-Flow Demand Model for Hybrid Augmented Intelligence in
+    Academic Course Planning
+  authors:
+    - family-names: Estrada-Padilla
+      given-names: Alejandro
+    - family-names: Balderas-Jaramillo
+      given-names: Fausto Antonio
+    - family-names: Aguirre Lam
+      given-names: Marco A
+    - family-names: Contreras Álvarez
+      given-names: Laura Taide
+    - family-names: Rodríguez Zapata
+      given-names: José Francisco Franklin
+  journal: >-
+    International Journal of Combinatorial Optimization Problems and
+    Informatics
+  year: 2027
+  notes: >-
+    Special section "Hybrid Augmented Intelligence in Action: Human-Aware
+    Computing Applications", editors G. Rivera, C. Gómez, A. Santiago.

@@ -1,0 +1,130 @@
+{
+  "description": "Prerequisite graph for the case-study curriculum. The graph is a forest of in-trees: every course has at most one prerequisite.",
+  "vertices": [
+    "C0.0",
+    "C1.2",
+    "C2.2",
+    "C3.5",
+    "C3.6",
+    "C4.4",
+    "C4.5",
+    "C4.6",
+    "C5.4",
+    "C5.5",
+    "C5.6",
+    "C6.1",
+    "C6.3",
+    "C6.4",
+    "C6.5",
+    "C6.6",
+    "C6.G",
+    "C7.1",
+    "C7.3",
+    "C7.4",
+    "C7.6",
+    "C7.7",
+    "C7.J",
+    "C7.K",
+    "C7.L",
+    "C8.1",
+    "C8.4",
+    "C8.5",
+    "C8.9",
+    "C8.Q",
+    "C8.R",
+    "C8.S",
+    "C9.5",
+    "C9.8",
+    "C9.9",
+    "EA.1",
+    "EA.2",
+    "EA.3",
+    "EA.4",
+    "EA.5",
+    "EA.6",
+    "EB.1",
+    "EB.2",
+    "EB.3",
+    "EB.4",
+    "EB.5",
+    "EB.6",
+    "X.1",
+    "X.2",
+    "X.3",
+    "X.4",
+    "X.5",
+    "X.6",
+    "X.7",
+    "X.8"
+  ],
+  "edges": [
+    {
+      "from": "C1.2",
+      "to": "C2.2"
+    },
+    {
+      "from": "C2.2",
+      "to": "C3.6"
+    },
+    {
+      "from": "C3.5",
+      "to": "C4.6"
+    },
+    {
+      "from": "C3.6",
+      "to": "C4.5"
+    },
+    {
+      "from": "C4.4",
+      "to": "C5.4"
+    },
+    {
+      "from": "C5.4",
+      "to": "C6.4"
+    },
+    {
+      "from": "C5.6",
+      "to": "C6.6"
+    },
+    {
+      "from": "C6.1",
+      "to": "C7.1"
+    },
+    {
+      "from": "C6.3",
+      "to": "C7.3"
+    },
+    {
+      "from": "C6.6",
+      "to": "C7.6"
+    },
+    {
+      "from": "C7.3",
+      "to": "C8.4"
+    },
+    {
+      "from": "C7.4",
+      "to": "C8.5"
+    },
+    {
+      "from": "EA.1",
+      "to": "EA.3"
+    },
+    {
+      "from": "EA.2",
+      "to": "EA.4"
+    },
+    {
+      "from": "EA.3",
+      "to": "EA.6"
+    },
+    {
+      "from": "EB.1",
+      "to": "EB.3"
+    },
+    {
+      "from": "EB.2",
+      "to": "EB.5"
+    }
+  ]
+}
