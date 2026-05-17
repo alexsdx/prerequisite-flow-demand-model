@@ -1,5 +1,7 @@
 # Prerequisite-Flow Demand Model — Reproducibility release
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20254356.svg)](https://doi.org/10.5281/zenodo.20254356)
+
 Companion repository to the article
 
 > *A Prerequisite-Flow Demand Model for Hybrid Augmented Intelligence in
@@ -50,7 +52,7 @@ arithmetic, so reruns are bit-identical.
 
 ```bash
 # 1. Clone the repository at the published commit hash.
-git clone https://github.com/[OWNER]/prerequisite-flow-demand-model.git
+git clone https://github.com/alexsdx/prerequisite-flow-demand-model.git
 cd prerequisite-flow-demand-model
 
 # 2. Create a Python 3.11 virtual environment.

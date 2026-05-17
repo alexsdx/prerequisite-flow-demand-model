@@ -9,7 +9,11 @@ title: >-
 version: "1.0.0"
 date-released: "2026-05-17"
 license-expression: "MIT AND CC-BY-4.0"
-repository-code: "https://github.com/[OWNER]/prerequisite-flow-demand-model"
+repository-code: "https://github.com/alexsdx/prerequisite-flow-demand-model"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20254356"
+    description: "Zenodo archive of v1.0.0"
 authors:
   - family-names: Estrada-Padilla
     given-names: Alejandro
