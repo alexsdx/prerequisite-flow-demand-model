@@ -15,3 +15,7 @@ Validation_and_Trends.xlsx
 .idea/
 .DS_Store
 Thumbs.db
+
+# Generated workbooks (regenerable with code/run_*.py)
+Baselines_Comparison.xlsx
+Synthetic_and_Bootstrap.xlsx

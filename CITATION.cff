@@ -4,16 +4,19 @@ message: >-
   the article and this repository as listed below.
 type: software
 title: >-
-  A Prerequisite-Flow Demand Model for Hybrid Augmented Intelligence in
-  Academic Course Planning — Reproducibility release
-version: "1.0.0"
-date-released: "2026-05-17"
+  Prerequisite-Flow Demand Estimation for Academic Course Planning: A Hybrid
+  Augmented Intelligence Workflow — Reproducibility release
+version: "1.1.0"
+date-released: "2026-08-21"
 license-expression: "MIT AND CC-BY-4.0"
 repository-code: "https://github.com/alexsdx/prerequisite-flow-demand-model"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.20254356"
-    description: "Zenodo archive of v1.0.0"
+    description: "Zenodo archive of v1.0.0 (version evaluated at first submission)"
+  - type: doi
+    value: "[DOI_v1.1.0]"
+    description: "Zenodo archive of v1.1.0 (revised version)"
 authors:
   - family-names: Estrada-Padilla
     given-names: Alejandro
@@ -38,8 +41,8 @@ authors:
 preferred-citation:
   type: article
   title: >-
-    A Prerequisite-Flow Demand Model for Hybrid Augmented Intelligence in
-    Academic Course Planning
+    Prerequisite-Flow Demand Estimation for Academic Course Planning: A
+    Hybrid Augmented Intelligence Workflow
   authors:
     - family-names: Estrada-Padilla
       given-names: Alejandro
