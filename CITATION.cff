@@ -15,7 +15,7 @@ identifiers:
     value: "10.5281/zenodo.20254356"
     description: "Zenodo archive of v1.0.0 (version evaluated at first submission)"
   - type: doi
-    value: "[DOI_v1.1.0]"
+    value: "10.5281/zenodo.22042483"
     description: "Zenodo archive of v1.1.0 (revised version)"
 authors:
   - family-names: Estrada-Padilla

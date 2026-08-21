@@ -1,6 +1,6 @@
 # Prerequisite-Flow Demand Estimation — Reproducibility release
 
-[![DOI v1.0.0](https://zenodo.org/badge/DOI/10.5281/zenodo.20254356.svg)](https://doi.org/10.5281/zenodo.20254356)
+[![DOI v1.1.0](https://zenodo.org/badge/DOI/10.5281/zenodo.22042483.svg)](https://doi.org/10.5281/zenodo.22042483) [![DOI v1.0.0](https://zenodo.org/badge/DOI/10.5281/zenodo.20254356.svg)](https://doi.org/10.5281/zenodo.20254356)
 
 Companion repository to the article
 
@@ -25,7 +25,7 @@ workflow run in batch mode.
 | Version | Zenodo DOI | Status |
 |---|---|---|
 | v1.0.0 (2026-05-17) | [10.5281/zenodo.20254356](https://doi.org/10.5281/zenodo.20254356) | Release evaluated at first submission. Kept unchanged for the record. |
-| v1.1.0 (2026-08-21) | `[DOI_v1.1.0]` | Revised release accompanying the revised manuscript. |
+| v1.1.0 (2026-08-21) | [10.5281/zenodo.22042483](https://doi.org/10.5281/zenodo.22042483) | Revised release accompanying the revised manuscript. |
 
 **What changed in v1.1.0.** Peer review identified that the originally
 submitted version (a) accumulated retake demand over a retry cap *k*
